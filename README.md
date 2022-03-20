@@ -1,6 +1,8 @@
 # SQL Practices
 
-Special thanks to [Data with Danny](https://www.datawithdanny.com/) for the SQL case studies!✨
+Special thanks to [Data with Danny](https://www.datawithdanny.com/) for the SQL case studies! ✨
+
+I used [MySQL Workbench](https://www.mysql.com/products/workbench/) to solve the case studies 💻
 
 The SQL challenge can be found on the website **[#8WeekSQLChallenge](https://8weeksqlchallenge.com)**
 
