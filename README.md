@@ -1,5 +1,9 @@
 # SQL Practices
 
+This is a repository where I stored my SQL query practices using [MySQL](https://www.mysql.com/) and [PostgreSQL](https://www.postgresql.org/)
+
+---
+
 Special thanks to [Data with Danny](https://www.datawithdanny.com/) for the SQL case studies! ✨
 
 I used [MySQL Workbench](https://www.mysql.com/products/workbench/) to solve the case studies 💻
