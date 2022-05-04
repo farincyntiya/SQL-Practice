@@ -2,20 +2,23 @@
 
 This is a repository where I stored my SQL query practices using [MySQL](https://www.mysql.com/) and [PostgreSQL](https://www.postgresql.org/)
 
----
-
 Special thanks to [Data with Danny](https://www.datawithdanny.com/) for the SQL case studies! ✨
 
-I used [MySQL Workbench](https://www.mysql.com/products/workbench/) to solve the case studies 💻
+I used [MySQL Workbench](https://www.mysql.com/products/workbench/) and [PostgreSQL](https://www.postgresql.org/) to solve the case studies 💻
 
-The SQL challenge can be found on the website **[#8WeekSQLChallenge](https://8weeksqlchallenge.com)**
+The SQL challenge by Danny can be found on the website **[#8WeekSQLChallenge](https://8weeksqlchallenge.com)**
+
+---
 
 ## 📚 Table of Contents 📚
 - [Case Study #1: Danny's Diner](#case-study-1-dannys-diner)
 - [Case Study #2: Pizza Runner](#case-study-2-pizza-runner)
+- [Superstore Case Study](#superstore-case-study)
+
+---
 
 ## Case Study #1: Danny's Diner 
-<img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" alt="Image" width="400" height="400">
+<img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" alt="Danny's Diner" width="300" height="300">
 
 Danny's Diner SQL Case Study can be found [here](https://8weeksqlchallenge.com/case-study-1/)
 
@@ -25,7 +28,7 @@ Danny’s Diner is in need of assistance to help the restaurant stay afloat - th
 
 ### The Entity Relationship Diagram:
 
-<img src="https://i.postimg.cc/zBSVw2pt/danny-s-diner-ERD.png" alt="Image" width="500" height="250"> 
+<img src="https://i.postimg.cc/zBSVw2pt/danny-s-diner-ERD.png" alt="Danny's Diner ERD" width="500" height="250"> 
 
 The ERD of Danny's Diner case study can be inspected [here](https://dbdiagram.io/d/608d07e4b29a09603d12edbd/?utm_source=dbdiagram_embed&utm_medium=bottom_open)
 
@@ -48,10 +51,10 @@ The ERD of Danny's Diner case study can be inspected [here](https://dbdiagram.io
 
 </details>
 
-
+---
 
 ## Case Study #2: Pizza Runner 
-<img src="https://8weeksqlchallenge.com/images/case-study-designs/2.png" alt="Image" width="400" height="400">
+<img src="https://8weeksqlchallenge.com/images/case-study-designs/2.png" alt="Pizza Runner" width="300" height="300">
 
 Pizza Runner SQL Case Study can be found [here](https://8weeksqlchallenge.com/case-study-2/)
 
@@ -62,7 +65,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 
 ### The Entity Relationship Diagram:
 
-<img src="https://i.postimg.cc/YS2rK2x3/pizza-runner-ERD.png" alt="Image" width="650" height="300"> 
+<img src="https://i.postimg.cc/YS2rK2x3/pizza-runner-ERD.png" alt="Pizza Runner ERD" width="650" height="300"> 
 
 The ERD of Pizza Runner case study can be inspected [here](https://dbdiagram.io/d/5f3e085ccf48a141ff558487/?utm_source=dbdiagram_embed&utm_medium=bottom_open)
 
@@ -82,5 +85,27 @@ The ERD of Pizza Runner case study can be inspected [here](https://dbdiagram.io/
 8. How many pizzas were delivered that had both exclusions and extras?
 9. What was the total volume of pizzas ordered for each hour of the day?
 10. What was the volume of orders for each day of the week?
+
+</details>
+
+---
+
+## Superstore Case Study
+<img src="https://i.postimg.cc/v8Sm9bQG/superstore.jpg" alt="Superstore" width="300" height="300">
+
+### The Case:
+As one of the Business Intelligence Analysts in the Superstore, you are asked to support analysis needs, both from the internal BI team itself and from other teams such as Marketing, Business Development, Sales, etc.
+
+### Case Study Questions:
+<details>
+<summary>
+📎 Click here to expand
+</summary>
+
+1. How many orders on the SAME DAY had delivery delays?
+2. How was the relationship between the amount of discount given and the profitability received by the company?
+3. What were the average discount and profits for each subcategory in the categories?
+4. What were the total sales and average profit for California, Texas, and Georgia from each customer segment in 2016?
+5. What were the total customers who had an average discount above 0.4 for each region?
 
 </details>
